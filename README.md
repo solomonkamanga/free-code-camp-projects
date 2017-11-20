@@ -1,13 +1,15 @@
 # free-code-camp-projects
 Projects completed as part of the [Free Code Camp](http://www.freecodecamp.com) Full Stack Web Developer Certification.
 
+**freeCodeCamp profile:** [Progress so far](https://www.freecodecamp.org/solomonkamanga)
+
 ## Front End Development Certification
 
 ### Basic Front End Development Projects 
 
 - [x] Build a Tribute Page | [Requirements](http://www.freecodecamp.com/challenges/build-a-tribute-page) | [CodePen](https://codepen.io/solomonkamanga/pen/wrJVRZ) | [GitHub](https://github.com/solomonkamanga/tribute-page)
 
-- [ ] Build a Personal Portfolio Page | [Requirements](http://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [CodePen](https://codepen.io/solomonkamanga/pen/RLZgMb) | [GitHub](https://github.com/solomonkamanga/solomonkamanga.github.io)
+- [x] Build a Personal Portfolio Page | [Requirements](http://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [CodePen](https://codepen.io/solomonkamanga/pen/RLZgMb) | [GitHub](https://github.com/solomonkamanga/solomonkamanga.github.io)
 
 
 ### Intermediate Front End Development Projects
