@@ -7,13 +7,13 @@ Projects completed as part of the [freeCodeCamp](http://www.freecodecamp.com) Fu
 
 - [x] Build a Tribute Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page) | [CodePen](https://codepen.io/solomonkamanga/pen/wrJVRZ) | [GitHub](https://github.com/solomonkamanga/tribute-page)
 
-- [ ] Build a Survey Form | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form) | [CodePen]() | [GitHub]()
+- [x] Build a Survey Form | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form) | [CodePen](https://codepen.io/freeCodeCamp/full/VPaoNP) | [GitHub](https://github.com/solomonkamanga/survey-form)
 
-- [ ] Build a Product Landing Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) | [CodePen]() | [GitHub]()
+- [x] Build a Product Landing Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) | [CodePen](https://codepen.io/solomonkamanga/full/pZXYez/) | [GitHub](https://github.com/solomonkamanga/product-landing-page)
 
 - [ ] Build a Technical Documentation Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) | [CodePen]() | [GitHub]()
 
-- [x] Build a Personal Portfolio Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) | [CodePen](https://codepen.io/solomonkamanga/pen/RLZgMb) | [GitHub](https://github.com/solomonkamanga/solomonkamanga.github.io)
+- [ ] Build a Personal Portfolio Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) | [CodePen](https://codepen.io/solomonkamanga/pen/RLZgMb) | [GitHub]()
 
 ## JavaScript Algorithms and Data Structures Certification
 
