@@ -11,9 +11,9 @@ Projects completed as part of the [freeCodeCamp](http://www.freecodecamp.com) Fu
 
 - [x] Build a Product Landing Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page) | [CodePen](https://codepen.io/solomonkamanga/full/pZXYez/) | [GitHub](https://github.com/solomonkamanga/product-landing-page)
 
-- [ ] Build a Technical Documentation Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) | [CodePen]() | [GitHub]()
+- [x] Build a Technical Documentation Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page) | [CodePen](https://codepen.io/solomonkamanga/full/gdOjmW) | [GitHub](https://github.com/solomonkamanga/technical-documentation-page)
 
-- [ ] Build a Personal Portfolio Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) | [CodePen](https://codepen.io/solomonkamanga/pen/RLZgMb) | [GitHub]()
+- [x] Build a Personal Portfolio Page | [Requirements](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) | [CodePen](https://codepen.io/solomonkamanga/full/RLZgMb) | [GitHub](https://github.com/solomonkamanga/personal-portfolio)
 
 ## JavaScript Algorithms and Data Structures Certification
 
