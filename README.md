@@ -17,15 +17,15 @@ Projects completed as part of the [freeCodeCamp](http://www.freecodecamp.com) Fu
 
 ## JavaScript Algorithms and Data Structures Certification
 
-- [ ] Palindrome Checker | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker) | [CodePen]() | [GitHub]()
+- [x] Palindrome Checker | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker) | [GitHub](https://github.com/solomonkamanga/palindrome-checker)
 
-- [ ] Roman Numeral Converter | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter) | [CodePen]() | [GitHub]()
+- [x] Roman Numeral Converter | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter) | [GitHub](https://github.com/solomonkamanga/roman-numeral-converter)
 
-- [ ] Caesars Cipher | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher) | [CodePen]() | [GitHub]()
+- [x] Caesars Cipher | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher) | [GitHub](https://github.com/solomonkamanga/caesars-cipher)
 
-- [ ] Telephone Number Validator | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator) | [CodePen]() | [GitHub]()
+- [x] Telephone Number Validator | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator) | [GitHub](https://github.com/solomonkamanga/telephone-number-validator)
 
-- [ ] Cash Register | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) | [CodePen]() | [GitHub]()
+- [x] Cash Register | [Requirements](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) | [GitHub](https://github.com/solomonkamanga/cash-register)
 
 ## Front End Libraries Certification
 
