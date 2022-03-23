@@ -1,5 +1,5 @@
 # freeCodeCamp Projects
-Projects completed as part of the [freeCodeCamp](http://www.freecodecamp.com) Full Stack Web Developer Certification.
+Projects completed as part of the [freeCodeCamp](http://www.freecodecamp.com) Certifications.
 
 **freeCodeCamp profile:** [Progress so far](https://www.freecodecamp.org/solomonkamanga)
 
